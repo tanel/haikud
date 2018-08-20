@@ -1,3 +1,3 @@
-# haiku-book
+# haikud
 
 [Tekstid](https://tanel.github.io/haikud/)
