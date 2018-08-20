@@ -1,0 +1,27 @@
+{
+  "name": "haikud",
+  "version": "1.0.0",
+  "description": "Haikud",
+  "main": "app.js",
+  "scripts": {
+    "html-validator": "html-validator --file index.html",
+    "test": "jshint --config jshint.json app.js && csslint app.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanel/haiku.git"
+  },
+  "keywords": [
+    "haiku"
+  ],
+  "author": "Tanel Lebedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanel/haiku/issues"
+  },
+  "homepage": "https://github.com/tanel/haiku#readme",
+  "dependencies": {
+    "csslint": "^1.0.5",
+    "jshint": "^2.9.6"
+  }
+}

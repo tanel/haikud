@@ -1,0 +1,3 @@
+- generate HTML with Go so that the site can be served statically
+- move random / generation into JS
+- try out Markov chains 
