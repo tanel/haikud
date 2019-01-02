@@ -15,7 +15,6 @@ const indexHtmlTemplate = `
 <html lang=en>
 	<head>
 		<title>Haikud</title>
-		<link href=app.css rel=stylesheet type=text/css>
 	</head>
 	<body>
     {{range .}}
